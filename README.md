@@ -24,4 +24,4 @@ The following project has been made as part of Apscript Hackathon.
  ### Installation Instructions
  - Put all the contents of the repository to your xampp/htdocs/
  - Import Database from db folder to your phpmyadminpanel (start xampp , google "localhost/phpmyadmin/" , create new db with name "hackathon_db" , import file "hackathon_db" from local folder)
- - Navigate to localhost/ngo_website/src/ (Assuming you haven't changed the repo name or manually navigate to localhost)
+ - Navigate to localhost/NgoWebsite/src/ (Assuming you haven't changed the repo name or manually navigate to localhost)
